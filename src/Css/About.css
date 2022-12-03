@@ -1,0 +1,15 @@
+.about1{
+    border: 2px solid;
+    margin-left: 10%;
+    width: 70%;
+    height: auto;
+
+}
+.about2{
+    background-color: slateblue;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

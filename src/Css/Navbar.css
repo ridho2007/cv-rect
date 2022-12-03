@@ -1,0 +1,14 @@
+.navbar1{
+    display: flex;
+    gap: 30px;
+    background-color: skyblue;
+}
+.navbar1 button{
+    border: 2px darkblue;
+    border-radius: 20px;
+    background-color: blue;
+    padding: 10px;
+    color: wheat;
+    margin: 10px;
+    width: 100px;
+}
